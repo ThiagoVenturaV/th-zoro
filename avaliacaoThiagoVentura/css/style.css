@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+}
+h1{text-align: center;
+    font-family: impact;}
+h2{font-family: Impact;
+    }
+a{color:aqua;}
+a:hover {color: blueviolet;}
+img{border: 4px solid #5900ff;
+display: block;
+margin:auto;}
+
